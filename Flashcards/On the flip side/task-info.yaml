@@ -1,0 +1,40 @@
+type: edu
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Capitals Flashcards</title>
+    </head>
+    <body>
+    <h1>What is the capital of...</h1>
+    <div><p>Warsaw</p></div>
+    <div><p>Germany</p></div>
+    <div><p>France</p></div>
+    <div><p>pain</p></div>
+    <div><p>Portugal</p></div>
+    <div><p>Norway</p></div>
+    <div><p>Finland</p></div>
+    <div><p>Hungary</p></div>
+    <div><p>Croatia</p></div>
+    </body>
+    </html>
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+- name: src/world.png
+  visible: true
+  learner_created: true
+- name: src/style.css
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/10247#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 30 Aug 2022 21:51:04 UTC
+record: -1
